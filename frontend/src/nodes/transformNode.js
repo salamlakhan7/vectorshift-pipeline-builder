@@ -1,0 +1,24 @@
+import { Position } from 'reactflow';
+import { BaseNode } from './BaseNode';
+
+export const TransformNode = ({ id }) => {
+  return (
+    <BaseNode
+      title="Transform"
+      handles={[
+        {
+          type: 'target',
+          position: Position.Left,
+          id: `${id}-input`,
+        },
+        {
+          type: 'source',
+          position: Position.Right,
+          id: `${id}-output`,
+        },
+      ]}
+    >
+      <span>Transforms incoming data.</span>
+    </BaseNode>
+  );
+};

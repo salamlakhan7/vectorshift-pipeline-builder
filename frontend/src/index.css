@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background: #f4f7fb;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+input,
+select,
+textarea {
+  border: 1px solid #d0d7e2;
+  border-radius: 6px;
+  padding: 6px;
+  font-size: 14px;
+  width: 100%;
+}
+
+label {
+  font-size: 13px;
+  color: #444;
+}
+
+.react-flow__node {
+  border-radius: 12px;
+}
+
+.react-flow__handle {
+  width: 10px;
+  height: 10px;
+  background: #6366f1;
+}
+
+.react-flow__edge-path {
+  stroke: #6366f1;
+  stroke-width: 2;
+}
+
+.react-flow__controls {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.react-flow__minimap {
+  border-radius: 10px;
+}
