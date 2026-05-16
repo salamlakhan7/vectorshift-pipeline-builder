@@ -171,17 +171,18 @@ When you click **Submit Pipeline**, the frontend sends your workflow to the Fast
 
 ## 📸 Screenshots
 
+### Multi Input Flow
+![Multi Input Flow](./Screenshots/multi-input-flow.png.JPG)
+
 ### Home UI
 ![Home UI](./Screenshots/home-ui.png.JPG)
 
-### Multi Input Flow
-![Multi Input Flow](./Screenshots/multi-input-flow.png.JPG)
+### DAG Validation
+![DAG Validation](./Screenshots/dag-validation.png.JPG) 
 
 ### Pipeline Connected
 ![Pipeline Connected](./Screenshots/pipeline-connected.png.JPG)
 
-### DAG Validation
-![DAG Validation](./Screenshots/dag-validation.png.JPG)
 
 ---
 
