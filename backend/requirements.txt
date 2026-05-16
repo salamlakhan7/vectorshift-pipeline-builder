@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+starlette
+typing-extensions
+anyio
+h11
+annotated-types
+typing-inspection
+annotated-doc
