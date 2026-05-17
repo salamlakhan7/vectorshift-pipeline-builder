@@ -322,16 +322,7 @@ For support, email **salamlakhan7@gmail.com** or open an issue in the repository
 
 ---
 
-## 🗺️ Roadmap
 
-- [ ] Save and load pipelines from local storage
-- [ ] Export pipeline as JSON file
-- [ ] Add more node types (Webhook, Scheduler, Email)
-- [ ] User authentication and pipeline history
-- [ ] Redis-backed pipeline execution engine
-- [ ] One-click cloud deployment support
-- [ ] AI-powered pipeline suggestions
-- [ ] Mobile app (React Native)
 
 ---
 
